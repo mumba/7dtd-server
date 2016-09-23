@@ -2,4 +2,5 @@
 login anonymous
 force_install_dir /steamcmd/7dtd
 app_update 294420 validate
+- beta latest_experimental
 quit
