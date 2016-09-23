@@ -2,8 +2,8 @@
 <ServerSettings>
   <property name="ServerPort"         value="26900"/>       <!-- Port you want the server to listen on. -->
   <property name="ServerIsPublic"       value="true"/>        <!-- Should this server register to master server -->
-  <property name="ServerName"         value="My Game Host"/>    <!-- Whatever you want the name to be. -->
-  <property name="ServerPassword"       value=""/>          <!-- Password to gain entry to the server -->
+  <property name="ServerName"         value="Mumba Game Host"/>    <!-- Whatever you want the name to be. -->
+  <property name="ServerPassword"       value="mumbarocks"/>          <!-- Password to gain entry to the server -->
   <property name="ServerMaxPlayerCount"   value="8"/>         <!-- Maximum Concurrent Players -->
   <property name="ServerDescription"    value="A 7 Days to Die server"/> <!-- Whatever you want the description to be. -->
   <property name="ServerWebsiteURL"     value=""/>          <!-- Website URL for the server -->
