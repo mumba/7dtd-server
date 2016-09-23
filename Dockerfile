@@ -38,6 +38,11 @@ ADD serverconfig_original.xml /serverconfig.xml
 
 # Expose necessary ports
 EXPOSE 26900
+EXPOSE 26901
+EXPOSE 26902
+EXPOSE 26900/udp
+EXPOSE 26901/udp
+EXPOSE 26902/udp
 EXPOSE 25000
 EXPOSE 25001
 EXPOSE 25002
